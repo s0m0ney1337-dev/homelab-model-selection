@@ -1,0 +1,53 @@
+﻿**1. AI‑Driven Market Capitalization (≈ $X trillion)**  
+*What it is:* The total market value of all publicly traded AI companies – a figure that has surged to tens of trillions of dollars in the last few years.  
+*Why it matters:*  
+- **Signal of systemic risk** – A large, rapidly expanding segment of the equity market can amplify volatility and create “bubbles” if the underlying fundamentals (productivity gains, revenue streams) fail to materialize.  
+- **Indicator of future productivity** – The valuation implicitly prices in a sustained 3–4 % annual productivity growth (see #4). If that growth does not occur, the sector is over‑valued and could trigger a sharp correction.  
+- **Capital allocation insight** – Investors can gauge how much capital is being funneled into AI versus other sectors; a shift away from AI may signal changing expectations or risk appetite.
+
+---
+
+**2. Projected Debt‑Issuance vs. Absorbable Capacity (per country)**  
+*What it is:* A comparison of each major economy’s forecasted sovereign debt issuance (“blue”) against the amount that can be sustainably absorbed without triggering a fiscal crisis (“gray”).  
+*Why it matters:*  
+- **Fiscal health barometer** – Countries like Brazil are already beyond their absorbable limits, signaling imminent need for structural reforms or higher inflation.  
+- **Policy‑risk assessment** – For economies such as the US and UK that are approaching or exceeding their thresholds, policy choices (devaluation, austerity, stimulus) will have outsized political and economic consequences.  
+- **Investment risk filter** – Sovereign debt quality and default probability can be inferred from how close a country is to its limit; this informs bond pricing, credit spreads, and portfolio allocation.
+
+---
+
+**3. AI‑Driven Productivity Growth Assumption (≈ 3.5 % p.a.)**  
+*What it is:* The implied annual productivity growth rate that AI equities are priced for, derived from their valuation multiples relative to expected incremental revenue streams.  
+*Why it matters:*  
+- **Growth vs. reality gap** – Current consensus GDP and productivity forecasts are lower than 3.5 %. If the market’s expectation proves too optimistic, a correction is likely; if it materializes, markets will be rewarded.  
+- **Macro‑financial linkage** – Productivity growth drives long‑term debt sustainability (see #1). A shortfall could force higher interest rates or fiscal tightening, affecting equity and bond markets alike.  
+- **Strategic positioning** – Firms that can capture AI‑driven productivity gains (e.g., through automation, data monetization) will be better positioned to benefit from the implied growth premium.
+
+---
+
+**4. Debt Monetization Limits & Inflation Thresholds**  
+*What it is:* The point at which a country’s ability to finance debt by printing money becomes constrained by inflation, asset‑price bubbles, or currency depreciation (illustrated for Japan and other sovereigns).  
+*Why it matters:*  
+- **Currency risk indicator** – Excessive monetization can erode purchasing power and trigger capital outflows, impacting FX markets and cross‑border investments.  
+- **Policy constraint map** – Understanding where a country is on this curve helps anticipate policy shifts (e.g., tightening monetary policy, devaluation) that could ripple through global financial markets.  
+- **Risk‑adjusted returns** – Investors in sovereign debt or equities of highly indebted economies must factor in the probability of inflationary spirals and their impact on real yields.
+
+---
+
+**5. Market Pricing Divergence Between AI Stocks & Broader Macro Forecasts**  
+*What it is:* The observable gap where AI equities are pricing for a markedly higher growth trajectory than consensus macroeconomic forecasts or breakeven earnings implied by the broader market.  
+*Why it matters:*  
+- **Mispricing signal** – A persistent divergence suggests either an over‑optimistic view of AI’s impact on productivity (potential bubble) or an underestimation of macro risks (missed opportunity).  
+- **Portfolio allocation cue** – Investors can use this gap to identify sectors that may be undervalued relative to their risk profile, or conversely, to hedge against a potential correction in the AI space.  
+- **Strategic foresight** – Firms and funds that monitor this divergence can adjust exposure ahead of market re‑pricings, potentially capturing upside before a broader consensus shift.
+
+---
+
+### Bottom Line
+
+These five metrics together paint a picture of an economy where **AI is driving unprecedented valuation growth**, but **fiscal fragility and policy limits are tightening**. Investors should:
+
+1. **Monitor AI valuations** for signs of over‑extension versus productivity reality.  
+2. **Track sovereign debt trajectories** to gauge fiscal risk exposure.  
+3. **Assess the implied productivity premium** against macro forecasts to spot mispricing.  
+4. **Watch currency

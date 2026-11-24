@@ -1,0 +1,35 @@
+In our recent quarterly letter to clients, we discussed how change is accelerating because it’s all interconnected, with AI and modern mercantilism increasingly feeding each other. We also described how different markets are pricing different futures and shared our thoughts on how we’re navigating today’s environment. Below, we’re sharing some condensed highlights from the letter as well as an excerpt from our Q3 CIO call that explores why the world is changing at an accelerating pace and what this means for markets.
+
+Change Is Accelerating Because It’s All Interconnected
+
+1. Change and concentration are accelerating, increasing the risks of destabilization.
+
+The direction of change is toward concentration of corporate power, wealth, and control over intelligence. Coupled with the pace of change, this is provoking reactions: populism, a rupturing international order, and a rising cost of capital. Concentration and acceleration are also risky in their own right: they mean that more plain luck is needed to keep economies chugging on a modal path because the path depends on increasingly narrow dynamics (the pace of AI development, the spending of a handful of companies, whether there is an AI safety accident) and on increasingly unstable rates of acceleration matching what is implied by market pricing.
+
+In the past two years, Nvidia has overtaken Apple to become the most valuable company relative to GDP in history. By year-end, we will have built more compute in the last two years than in the prior six combined, most of it in the US. On the current trajectory roughly a third of the compute dedicated to AI could be controlled by two companies, OpenAI and Anthropic, by 2028. And AI now accounts for a substantial share of global market capitalization, with the success of those investments meaning the richest 0.001% of US households hold roughly 6-7% of personal wealth.
+
+2. AI is crossing critical thresholds; outcomes from here depend on how we manage the “hinge points.”
+
+In many fields where answers can be verified, AI now outperforms humans. At this tipping point, progress becomes exponential and hard to predict. So do safety risks. The “incidents” are growing faster than the labs can record them. The charts below give a sense of the exponential progress that becomes possible as AI meets or exceeds human capabilities in different domains.
+
+A wide range of outcomes is still possible from here. A true productivity miracle, something like the Industrial Revolution compressed into a few years, is a realistic path if capabilities, regulation, and labor disruption are well managed and we get some luck (i.e., no horrible accidents forcing overregulation along the way). Catastrophic misalignment is also a possibility if the models advance unchecked. More likely is a muddle-through, with policy makers lurching between accidents and backlash. Finally, we could look back on this as a bubble if an accident triggers overregulation or AI’s progress toward true “drop-in” work stalls. We are watching how AI leaders and policy makers handle each hinge point, updating our view of the path that puts us on, and preparing accordingly.
+
+3. Mercantilism and populism are driving more borrowing and pushing governments toward their fiscal limits. 
+
+Between the push for self-sufficiency and voter dissatisfaction, borrowing is heading to new highs. The diagram below shows policy makers’ trade-offs as they manage this pressure. Policy makers who don’t spend will get voted out. Policy makers who let interest rates rise will see economic pressure and rising debt service, which also costs them at the ballot box. That leaves devaluing money (e.g., by buying bonds) as the path of least resistance. For countries that print their own currency, this dynamic can go on until money is too weak and the economy hits limits of inflation, asset bubbles, or currency weakness (e.g., in Japan, yen weakness is testing the limits of debt monetization without higher interest rates). How close a country is to its limits depends on its productivity, domestic savings, and institutional credibility.
+
+How much borrowing each economy can absorb before hitting its limits now varies widely. Below, we compare our measures of each economy’s projected issuance (blue) with what we assess it can absorb (gray). Brazil is clearly in a debt cycle that requires radical change, whether fiscal reform or a much weaker currency and higher inflation. Canada and Australia have room, which gives them the flexibility to adapt as modern mercantilism and AI reshape their economies. The US and the UK are increasingly beyond what they can absorb without trade-offs. The UK has fiscal consolidation plans that would work if carried out, but they are deeply unpopular, and governments that pursue them keep getting replaced.
+
+4. Different markets are pricing very different futures; most are far from pricing an unrecognizable world.
+
+The AI boom has contributed tens of trillions of dollars of market cap in AI companies. As in any gold rush, trillions of dollars of “picks and shovels” only make sense if a great deal of gold (profits) is found. The pricing of a broader universe of AI companies tells us something about the scale of transformation that is discounted. If we calculate the incremental revenue required to sustain the valuation of AI companies and estimate how much of that can be earned by cannibalizing the revenue of existing companies, we can back out a productivity boost required to generate the rest of the incremental revenues.
+
+Today, we estimate that AI equities are discounting something like 3.5% annual productivity growth. That’s more than we estimate is needed for the US to make its debts sustainable. Across a reasonable range of assumptions, we assess AI stocks to be pricing trend nominal GDP growth well above the recent past, as shown below.
+
+By contrast, consensus estimates and broader markets imply a world that looks more like the recent past. Making sense of the pricing in AI stocks requires a boom in productivity and growth. However, as shown in the two charts below, consensus estimates for growth and productivity (from economist and Fed estimates) are slightly lower than current measures, as are rates of real growth and productivity implied by breakeven earnings in the broader stock market. Either AI stocks or broader macro markets are very meaningfully mispriced.
+
+5. Our Thoughts on Navigating This Environment 
+
+At a point in time, we see a modal path and also accumulating tail risks. The modal path from here is a strong but highly uneven boom. We see meaningful opportunities where markets are not discounting the second-order impacts of this boom, especially in places where we see growing divergences between economies with varied exposure to AI, the energy shock, and policy limits. 
+
+At the same time, we believe this is an environment in which it is important to hedge the asymmetric consequences of risks, including an AI accident, geopolitical conflict, and stalling AI progress. As always, we believe it’s important to remain diversified, liquid, and flexible.

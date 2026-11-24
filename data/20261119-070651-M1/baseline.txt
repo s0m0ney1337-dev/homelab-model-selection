@@ -1,0 +1,44 @@
+SESSION 20261119-070651-M1 | M1 | NORMAL_ALWAYS_ON_STT | 2026-11-19T07:06:51.6820982-06:00
+LONG prompt SHA256: FF4EB30BB305E705EA4C02B95C1E15934C62962776F6495465CAAECF5DC43C7F
+
+
+FreeRAM_GB  : 4.02
+TotalRAM_GB : 15.93
+
+
+
+
+
+Name                    RAM_MB
+----                    ------
+Memory Compression        1230
+vmmemWSL                  1163
+zen                        737
+zen                        503
+explorer                   441
+chrome                     409
+chrome                     362
+chrome                     355
+chrome                     339
+MsMpEng                    335
+zen                        231
+zen                        207
+com.docker.backend         195
+StartMenuExperienceHost    173
+zen                        162
+
+
+
+FLAG >500MB:
+
+Name               RAM_MB
+----               ------
+Memory Compression   1230
+vmmemWSL             1163
+zen                   737
+zen                   503
+
+
+
+GPU idle MB: 1966 | Committed GB idle: 19.31
+NOTE: normal apps + Parakeet STT API left running by design.

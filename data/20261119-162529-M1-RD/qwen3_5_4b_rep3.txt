@@ -1,0 +1,16 @@
+Based on the text provided, here are the five most important financial metrics mentioned, along with an explanation of their significance in the context of accelerating change and market dynamics:
+
+### 1. Market Capitalization Relative to GDP
+*   **Significance:** This metric highlights the unprecedented concentration of corporate power. The text notes that Nvidia has overtaken Apple to become the most valuable company relative to GDP in history, with more compute built in the last two years than in the prior six combined. It indicates a shift where a handful of companies (like OpenAI and Anthropic) could control a third of global AI compute by 2028, signaling that future economic dynamics depend heavily on these narrow, concentrated players rather than broad-based growth.
+
+### 2. Incremental Revenue Required to Sustain Valuation
+*   **Significance:** This is a calculated metric used to determine the "productivity boost" required for AI companies to justify their massive valuations. By estimating how much revenue must be generated (potentially through cannibalizing existing company revenues) to sustain current stock prices, analysts can back out the necessary growth rate. The text argues that AI equities are currently discounting a **3.5% annual productivity growth**, which is significantly higher than what is needed for US debt sustainability or recent historical averages, suggesting markets are pricing in an "unrecognizable" future of hyper-growth.
+
+### 3. Projected vs. Absorbable Debt Issuance
+*   **Significance:** This metric compares the amount of borrowing an economy *plans* to issue against the maximum amount it can realistically *absorb* without hitting fiscal limits (inflation, currency weakness). The text uses this to categorize economies: Brazil is in a cycle requiring radical change due to high issuance vs. low absorption; Canada and Australia have room to maneuver; while the US and UK are increasingly beyond their debt absorption capacity, forcing difficult trade-offs between spending cuts, rising interest rates, or devaluing currency.
+
+### 4. Real Growth and Productivity Rates (Consensus Estimates)
+*   **Significance:** These metrics represent the baseline expectations for economic performance held by economists and central banks (like the Fed). The text contrasts these "consensus" estimates with the growth implied by AI stock valuations. The divergence suggests that while mainstream markets expect modest growth, the AI boom implies a trajectory of trend nominal GDP growth well above recent past levels. This mispricing indicates that either AI stocks are overvalued relative to reality, or broader macro markets are underestimating the transformative potential of AI.
+
+### 5. Wealth Concentration (Richest 0.001%)
+*   **Significance:** This metric measures the share of personal wealth held by the ultra-wealthy (specifically the top 0.001% of US households). The text highlights that due to the success of AI investments, this group now holds roughly **6–7% of personal wealth**. This extreme concentration underscores the "mercantilism" aspect of the current environment, where gains from technological acceleration are being captured by a tiny fraction of the population, driving populism and political instability.
